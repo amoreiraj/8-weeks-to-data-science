@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-in_progress-yellow)  
 ![Python](https://img.shields.io/badge/python-3.13+-blue?logo=python)  
-![SQL](https://img.shields.io/badge/sql-practice-green?logo=postgresql)  
+![SQL](https://img.shields.io/badge/sql-practice-green?logo=mysql)  
 
 # 8-Weeks-to-Data-Science
 
