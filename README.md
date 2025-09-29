@@ -1,6 +1,10 @@
-# 8-weeks-to-data-science
-Applying the Pareto Principle to become job-ready in 2 months (Python + SQL + projects).
 
+# 8-Weeks-to-Data-Science  
+### A focused 8-week plan to become job-ready in Data Science & Data Engineering. Applying the Pareto Principle to become job-ready in 2 months (Python + SQL + projects).
+
+![Status](https://img.shields.io/badge/status-in_progress-yellow)  
+![Python](https://img.shields.io/badge/python-3.10+-blue?logo=python)  
+![SQL](https://img.shields.io/badge/sql-practice-green?logo=postgresql)  
 
 # 8-Weeks-to-Data-Science
 
